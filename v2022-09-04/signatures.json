@@ -1840,6 +1840,14 @@
       "created_at": "2025-11-25T19:12:14Z",
       "repoId": 440752086,
       "pullRequestNo": 20906
+    },
+    {
+      "name": "mykyta-protsenko",
+      "id": 3166746,
+      "comment_id": 3577671701,
+      "created_at": "2025-11-25T21:32:16Z",
+      "repoId": 440752086,
+      "pullRequestNo": 20936
     }
   ]
 }
